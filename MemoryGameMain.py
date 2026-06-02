@@ -3,6 +3,9 @@ from tkinter import messagebox
 import random
 import time
 
+#
+# author: S1145566, James Chen
+#
 
 ####################################
 # Card 類別
